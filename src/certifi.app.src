@@ -13,5 +13,6 @@
            "test",
            "rebar.config",
            "README.md",
-           "LICENSE"]}
+           "LICENSE"]},
+  {doc, "doc"}
  ]}.
